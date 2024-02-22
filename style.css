@@ -1,0 +1,15 @@
+.sign{
+    display: grid;
+    grid-template-columns: 50%50%;
+    padding: 25px;
+}
+#form{
+    border-right: Solid 2px;
+    border: none;
+    margin:0%
+    
+}
+
+        
+    
+    
